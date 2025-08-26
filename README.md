@@ -1,6 +1,6 @@
 # Install Kubernetes
 
-This script will install Kubernetes on Ubuntu 22.04.
+This script will install Kubernetes on Ubuntu 24.04.
 
 ## Stack 
 
